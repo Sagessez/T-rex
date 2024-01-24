@@ -1,0 +1,2 @@
+Dataset: EPC_tidy
+colSums(is.na(EPC_tidy)) 
